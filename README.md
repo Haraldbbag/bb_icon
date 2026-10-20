@@ -20,6 +20,8 @@ Eigenes Icon-Set mit dem Präfix `bb:` für die Home-Assistant-Instanzen von Bew
 | `bb:cinema-3` | <img src="svg/cinema-3.svg" width="32"> |
 | `bb:scan` | <img src="svg/scan.svg" width="32"> |
 | `bb:subtitle` | <img src="svg/subtitle.svg" width="32"> |
+| `bb:zoomprofilscheinwerfer` | <img src="svg/zoomprofilscheinwerfer.svg" width="32"> |
+| `bb:patt` | <img src="svg/patt.svg" width="32"> |
 | `bb:bewegtebilder` | <img src="svg/bewegtebilder.svg" width="32"> |
 
 `bb:bewegtebilder` ist zweistufig (`secondaryPath`): Der zweite Teil wird von Home Assistant halbtransparent gezeichnet.
